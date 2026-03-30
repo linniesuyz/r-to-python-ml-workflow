@@ -34,3 +34,11 @@ To reproduce the results of this analysis, follow these steps:
 5. The outputs will include data preprocessing steps, exploratory analysis, model training, predictions, and evaluation metrics.  
 
 The notebook is structured to follow the full workflow, so running all cells will reproduce the complete analysis without requiring additional modifications.
+
+
+This assignment was completed with the assistance of generative AI tools (e.g., ChatGPT) as a learning aid.
+
+Specifically, AI was used to:
+- Help translate R code into equivalent Python implementations
+- Assist with debugging and improving code structure
+- Clarify concepts related to machine learning workflows and model diagnostics
